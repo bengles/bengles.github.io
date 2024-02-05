@@ -6,7 +6,7 @@ title = "Projects"
 
 Currently I am exploring a co-op puzzle boss game where you and a friend explore and use co-op game mechanics to solve puzzles and defeat bosses.
 
-{{ video(id="https://github.com/bengles/bengles.github.io/raw/0a348a070ccdf483f9826fbed45ad17f549eca76/assets/project-intro.mp4") }}
+{{ video(id="https://github.com/bengles/bengles.github.io/raw/5c6b6c00b87e0f909ce94107c43720e17f1585ca/assets/project-intro.mp4") }}
 
 {{ space() }}
 
@@ -14,7 +14,7 @@ Currently I am exploring a co-op puzzle boss game where you and a friend explore
 
 I spent some time learning about multiplay networking and decided to take a stab at making a very simple networking library for the bevy engine, which I called bevy benet.
 
-{{ video(id="https://github.com/bengles/bengles.github.io/raw/assets/assets/bevy-benet.mp4") }}
+{{ video(id="https://github.com/bengles/bengles.github.io/raw/5c6b6c00b87e0f909ce94107c43720e17f1585ca/assets/bevy-benet.mp4") }}
 
 {{ space() }}
 
