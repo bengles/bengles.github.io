@@ -74,7 +74,7 @@ A point set scanner application together with a point set processing and surface
 
 A small little project I threw together over a weekend testing out Unreal Engine and its VR capabilities.
 
-{{ video(id=https://github.com/bengles/bengles.github.io/raw/assets/assets/vr-shooter-demo.mp4) }}
+{{ video(id="https://github.com/bengles/bengles.github.io/raw/assets/assets/vr-shooter-demo.mp4") }}
 
 
 ### Cauldron - 2016
