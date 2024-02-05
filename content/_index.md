@@ -1,5 +1,6 @@
 +++
 title="Björn Englesson"
+theme="dark"
 +++
 
 # Björn Englesson
