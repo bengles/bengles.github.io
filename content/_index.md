@@ -8,7 +8,15 @@ title="Björn Englesson"
 
 ### About
 
-My name is Björn Englesson and I graduated from [KTH Royal Institute of Technology](https://www.kth.se/) in 2017 with a bachelor's degree in Computer Science and a master's degree in Human Computer Interaction. For the past few years I've been working on [THE FINALS](https://www.reachthefinals.com/) for [Embark Studios](https://www.embark-studios.com/) as a Gameplay Engineer.
+Hello! I'm Björn Englesson, a passionate game developer with a keen interest in enhancing user experiences through innovative technology. I graduated from [**KTH Royal Institute of Technology**](https://www.kth.se/) in 2017, where I earned my bachelor's degree in Computer Science and my master's degree in Human-Computer Interaction. My academic journey was marked by exciting projects using different interaction technologies.
 
-* [Work experience](@/work.md)
-* [Projects](@/projects.md)
+Currently, I'm channeling my skills into the exciting world of game development at [**Embark Studios**](https://www.embark-studios.com/). Here, I work on [**THE FINALS**](https://www.reachthefinals.com/) as a Gameplay Engineer, where I spend my time working on minute-to-minute gameplay. 
+
+I'm always looking for ways to push the boundaries of user interaction and gameplay experience. In my free time, I enjoy working on exciting side projects that scratch whatever interest I have at the time.
+
+Feel free to connect with me through my [**LinkedIn profile**](https://www.linkedin.com/in/englesson/).
+
+### Links
+
+* [**Work**](@/work.md)
+* [**Projects**](@/projects.md)
