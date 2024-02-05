@@ -1,0 +1,31 @@
+# The URL the site will be built for
+base_url = "https://bengles.github.io/bjornenglesson.com"
+theme = "anemone"
+minify_html = true
+generate_feed = true
+default_language = "en"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+[markdown]
+render_emoji = true
+external_links_target_blank = true
+smart_punctuation = true
+highlight_code = false
+highlight_theme = "gruvbox-dark"
+
+[extra]
+default_theme = "dark"
+list_pages = false
+twitter_card = true
+favicon = "bjorn.ico"
+
+header_nav = [
+  { url = "/", name_en = "/about/" },
+  { url = "/work", name_en = "/work/"},
+  { url = "/projects", name_en = "/projects"},
+]
