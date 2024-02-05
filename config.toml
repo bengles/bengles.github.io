@@ -24,6 +24,9 @@ list_pages = false
 twitter_card = true
 favicon = "bjorn.ico"
 
+author = "Björn Englesson"
+display_author = true
+
 header_nav = [
   { url = "/", name_en = "/about/" },
   { url = "/work", name_en = "/work/"},
