@@ -19,10 +19,10 @@ At [Resolution Games](https://www.resolutiongames.com/) I worked on the game [An
 
 I founded Vale Games and created the location based game [World of Pixels](https://youtu.be/aBbI-5Q4IrY) where players are able to create pixel art together on a shared world map. 
 
-{{ video(id="world-of-pixels.mp4") }}
+{{ video(id="https://github.com/bengles/bengles.github.io/raw/0a348a070ccdf483f9826fbed45ad17f549eca76/assets/world-of-pixels.mp4") }}
 
 ### KTH - Aug 2017 - Dec 2017
 
 After graduation I worked at [KTH Royal Institute of Technology](https://www.kth.se/) as a research engineer. I developed an app for the research project Mixed Reality Stockholm that focused on using augmented reality to navigate in Stockholm. I also developed the KTH Campus 100 app which was an augmented reality guided quiz through KTH Campus Valhallavägen which celebrated a 100 years.
 
-{{ video(id="kth-campus-100.mp4") }}
+{{ video(id="https://github.com/bengles/bengles.github.io/raw/assets/assets/kth-campus-100.mp4") }}

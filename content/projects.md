@@ -6,7 +6,7 @@ title = "Projects"
 
 Currently I am exploring a co-op puzzle boss game where you and a friend explore and use co-op game mechanics to solve puzzles and defeat bosses.
 
-{{ video(id="project-intro.mp4") }}
+{{ video(id="https://github.com/bengles/bengles.github.io/raw/0a348a070ccdf483f9826fbed45ad17f549eca76/assets/project-intro.mp4") }}
 
 ### bevy benet - Networking libray for the [bevy engine](https://bevyengine.org/)
 

@@ -3,7 +3,7 @@
 
 # Björn Englesson
 
-{{ img(id="this-is-me.jpeg", alt="This is me!", class="textCenter") }}
+{{ img(id="https://raw.githubusercontent.com/bengles/bengles.github.io/0a348a070ccdf483f9826fbed45ad17f549eca76/assets/this-is-me.JPEG", alt="This is me!", class="textCenter") }}
 
 ### About
 
